@@ -16,6 +16,6 @@ public class Video36 {
 		if (usename.equals("pieo") && password.length() > 6) {
 			System.out.println("Valid input");
 		}
-
+		scanner.close();
 	}
 }
